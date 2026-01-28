@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Node / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.next/
+
+# Runtime / Generated
+uploads/
+output/
+debug_gdnt/
+*.xlsx
+*.csv
+*.json
+
+# Environment
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
